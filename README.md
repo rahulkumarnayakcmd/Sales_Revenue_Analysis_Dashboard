@@ -13,5 +13,3 @@ A brief description of the goal of this project and what problem you solved for 
 * **Insight 2:** The highest-performing region was...
 * **Insight 3:** Revenue growth showed a 12% increase year-over-year.
 
-## Dashboard Preview
-(Pro-tip: Take a screenshot of your dashboard, upload it to your repository, and paste the image link here so the reviewer can see your design instantly without downloading the files!)
